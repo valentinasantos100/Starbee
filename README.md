@@ -13,7 +13,7 @@ Dwarf bunnies can have many different fur patterns! Some of these include:
 *Otter
 *Tortoise shell
 And many More!
-Example of A Broken Sable Point:
---------------------------------
+<strong>Here is an example of A Broken Sable Point:</strong>
+
 
 
