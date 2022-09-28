@@ -5,13 +5,13 @@ Welcome to this website! Here you can learn some fun facts about dwarf bunnies
 
 ## Different Breeds
 Dwarf bunnies can have many different fur patterns! Some of these include:
-<ul>Chestnut
-<ul>Broken Sable Point
-<ul>Lilac
-<ul>Seal Point
-<ul>Hotot
-<ul>Otter
-<ul>Tortoise shell
+<li>Chestnut</li>
+<li>Broken Sable Point</li>
+<li>Lilac</li>
+<li>Seal Point</li>
+<li>Hotot</li>
+<li>Otter</li>
+<li>Tortoise shell</li>
 And many More!
 <strong>Here is an example of A Broken Sable Point:</strong>
 
