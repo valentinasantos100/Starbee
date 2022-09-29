@@ -20,6 +20,6 @@ And many More!
 
 ### Body Language
 <li>When dwarf bunnies are relaxing or are tired, they will typically lay down flat on their stomach, lay on the side of their body, or even become into a "loaf" shape. When this happens, they will put their legs and hands under their body and become more compact. It is believed that it doing so, they are able to preserve warmth, when feeling a little cold.</li>
-<li>Furthermore, they can do things like binkies, or zoomies when they are feeling super happy/excited. Binkies are what dwarf bunnies do when they leap up into the air, followed by a head twist. Sometimes, they can even do half-binkies, which are basically the same thing except, they do not jump and they only twist their head. A zoomie is the term for what happens when they run *super* fast! 
+<li>Furthermore, they can do things like binkies, or zoomies when they are feeling super happy/excited. Binkies are what dwarf bunnies do when they leap up into the air, followed by a head twist. Sometimes, they can even do half-binkies, which are basically the same thing except, they do not jump and they only twist their head. A zoomie is the term for what happens when they run <i>super</i> fast! 
 #### What do Dwarf Bunnies like to eat?
   
