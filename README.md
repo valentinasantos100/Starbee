@@ -19,5 +19,6 @@ And many More!
 <img>![image](https://user-images.githubusercontent.com/114503043/192832750-3bb93758-ba41-4540-aad8-66efb8bd54a7.png)
 
 ### Body Language
-Some
+<li>When dwarf bunnies are relaxing or are tired, they will typically lay down flat on their stomach, lay on the side of their body, or even become into a "loaf" shape. When this happens, they will put their legs and hands under their body and become more compact. It is believed that it doing so, they are able to preserve warmth, when feeling a little cold.</li>
+
 
