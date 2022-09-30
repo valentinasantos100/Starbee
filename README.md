@@ -23,9 +23,12 @@ And many More!
 ### Body Language
 <li>When dwarf bunnies are relaxing or are tired, they will typically lay down flat on their stomach, lay on the side of their body, or even become into a "loaf" shape. When this happens, they will put their legs and hands under their body and become more compact. It is believed that it doing so, they are able to preserve warmth, when feeling a little cold.</li>
 <strong>Here is what the "loaf" shape looks like:</strong>
+
+
+
+
+
 <img><img width="225" alt="image" src="https://user-images.githubusercontent.com/114503043/193191771-b75f1fa8-4da5-45ab-a9a2-fae63d8ae2b3.png">
-
-
 <li>Furthermore, they can do things like binkies, or zoomies when they are feeling super happy/excited. Binkies are what dwarf bunnies do when they leap up into the air, followed by a head twist. Sometimes, they can even do half-binkies, which are basically the same thing except, they do not jump and they only twist their head. A zoomie is the term for what happens when they run <i>super</i> fast! 
 <li>Dwarf bunnies will also like to rub their chin on things in order to make certain locations familiar, or even to claim it as their own. On the bottom of their chin, they have the ability to put their scent on things. The scent isn't really noticeable to humans, but to bunnies and other animals, it may be more noticeable. 
   <h4>What do Dwarf Bunnies like to eat?</h4>
