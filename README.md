@@ -47,7 +47,8 @@ Besides hay, they also like to eat
 <li>blueberries</li>
 and more, see this other website for more information:<a>https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition</a>
 
-<img>![image](https://user-images.githubusercontent.com/114503043/193198648-b6803804-064b-4da0-86fc-19fa731421cf.jpeg)
+
+<img>
 
 <strong>This bunny's favorite food is cilantro!</strong>
   
