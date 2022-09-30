@@ -37,6 +37,8 @@ Besides hay, they also like to eat
 <li>parsley</li>
 <li>apples</li>
 <li>carrots</li>
+<li>lettuce</li>
+<li>blueberries</li>
 and more, see this other website for more information:https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition
 
   
