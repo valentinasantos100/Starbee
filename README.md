@@ -45,9 +45,7 @@ Besides hay, they also like to eat
 <li>carrots</li>
 <li>lettuce</li>
 <li>blueberries</li>
-and more, see this other website for more information:<a href="url"> https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition</a>
-
-
+and more, see this other website for more information:<a>https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition</a>
 
 
 
@@ -55,6 +53,7 @@ and more, see this other website for more information:<a href="url"> https://www
 
 
 <img><img src="https://user-images.githubusercontent.com/114503043/193319938-de3611a1-c003-4aba-81e7-2dc36a259c9e.jpeg">
+
 
 
 
