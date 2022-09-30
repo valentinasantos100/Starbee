@@ -31,7 +31,7 @@ And many More!
 <img><img width="225" alt="image" src="https://user-images.githubusercontent.com/114503043/193191771-b75f1fa8-4da5-45ab-a9a2-fae63d8ae2b3.png">
 <li>Furthermore, they can do things like binkies, or zoomies when they are feeling super happy/excited. Binkies are what dwarf bunnies do when they leap up into the air, followed by a head twist. Sometimes, they can even do half-binkies, which are basically the same thing except, they do not jump and they only twist their head. A zoomie is the term for what happens when they run <i>super</i> fast!</li> 
   <strong>A picture of a binky:</strong>
-  <img>![image](https://user-images.githubusercontent.com/114503043/193197833-579c7d52-26aa-4329-b4c3-c8bd2bfe3247.jpeg)
+  <img>
  
  
  
