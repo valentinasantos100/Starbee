@@ -48,7 +48,7 @@ Besides hay, they also like to eat
 and more, see this other website for more information:<a>https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition</a>
 
 
-<img>![image](https://user-images.githubusercontent.com/114503043/193204620-4f1fbfd9-d8ca-4937-8fad-f7178995c0f0.jpeg)
+<img>
 
 
 <strong>This bunny's favorite food is cilantro!</strong>
