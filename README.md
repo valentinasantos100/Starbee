@@ -48,7 +48,7 @@ Besides hay, they also like to eat
 and more, see this other website for more information:<a>https://www.breadboxfarm.com/blog/netherland-dwarf-nutrition</a>
 
 
-<img>![image](https://user-images.githubusercontent.com/114503043/193297841-83ac60e1-1699-4844-949d-cd4017195ad7.png)
+<img>![image](https://user-images.githubusercontent.com/114503043/193301375-be06670a-05e1-42fc-8cbf-a4bf0d23dba7.png)
 
 
 
